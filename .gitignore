@@ -1,5 +1,8 @@
-#Environment Variables
+# Environment Variables
 .env
+
+# Webpack Bundle Analyzer
+stats.json
 
 # Logs
 logs
